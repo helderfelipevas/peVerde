@@ -69,7 +69,7 @@
 						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Sobre o pÉ Verde</h2>
 						<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft">Objeto de Aprendizagem online para cultivo de temperos.</p>
 						<p class="animate-box" data-animate-effect="fadeInLeft"> O site tem como objetivo ensinar as pessoas a cultivar temperos em casa. <b>Web Site contruido utilizando as ferramentas:</b> PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap.</p>
-                                                <p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft"><a href="#"><i class="icon-github-square"></i> GitHub Código Fonte</a></p>
+                                                <p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft"><a href="https://github.com/helderfelipevas/peVerde"><i class="icon-github-square"></i> GitHub Código Fonte</a></p>
 					</div>
 					<div class="col-md-6 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
 						<img src="images/sobre.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive"> 
